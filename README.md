@@ -14,7 +14,7 @@ It is especially useful with an automatic filament changer, like the [ERCF](http
 ![overview](https://user-images.githubusercontent.com/216204/216500293-50a4b5c6-05cc-490f-85e6-ee62348e143c.png)
 
 The EAP mounts on the gantry of a Voron 2.4 (or the frame for a Trident). Therefore it is always at the same Z height as the nozzle.
-It is adjustable in Z and Y. Purging is done into a groove with a shape designed to hold the hot plastic, and resist warping.
+It is adjustable in Z and Y. Purging is done into a groove with a dovetail shape designed to hold the hot plastic, and resist curl up.
 The groove is covered with adhesive metallic foil to quickly cool the surface of the extrusion and prevent adhesion.
 
 The plastic should be left to cool from 15s (ABS) to 30s (95A TPU) before ejection.
